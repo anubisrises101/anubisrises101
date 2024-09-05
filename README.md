@@ -1,16 +1,15 @@
-## Hi there 👋
+## Innovative Software Engineer | Creative Problem Solver | Tech Enthusiast
 
-<!--
-**anubisrises101/anubisrises101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a neurodivergent software engineer with a deep passion for coding and problem-solving. My tech journey began at 15 when I built my first PC, igniting a lifelong love for IT. From modding FPS games to contributing to the Deus Ex modding community, my path has been driven by curiosity and a desire to create. Currently, I’m expanding my expertise through a General Assembly Software Engineering bootcamp, blending self-taught skills with formal training.
 
-Here are some ideas to get you started:
+# Skills and Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Innovative thinking and creative problem-solving
+* Strong foundation in modern development practices
+* Hands-on experience with complex software projects
+* Proficiency in building and modding games
+* Knowledge of digital forensics and criminology principles (AAS degree)
+* Skilled in crime scene investigation, evidence collection, and forensic analysis
+* Dedication to high-quality work and inclusive collaboration
+
+Let’s connect and explore how we can push the boundaries of technology together!
