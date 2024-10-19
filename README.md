@@ -1,6 +1,6 @@
 ## Innovative Software Engineer | Creative Problem Solver | Tech Enthusiast
 
-I'm a neurodivergent software engineer with a deep passion for coding and problem-solving. My tech journey began at 15 when I built my first PC, igniting a lifelong love for IT. From modding FPS games to contributing to the Deus Ex modding community, my path has been driven by curiosity and a desire to create. Currently, I’m expanding my expertise through a General Assembly Software Engineering bootcamp, blending self-taught skills with formal training.
+I'm a neurodivergent software engineer with a deep passion for coding and problem-solving. My tech journey began at 15 when I built my first PC, igniting a lifelong love for IT. From modding FPS games to contributing to the Deus Ex modding community, my path has been driven by curiosity and a desire to create. Ive expanded my expertise through a General Assembly Software Engineering bootcamp which I have graduated as of October 18, 2024. With it I was able to  blend self-taught skills with formal training.
 
 # Skills and Expertise:
 
